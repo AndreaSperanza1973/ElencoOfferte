@@ -1,5 +1,6 @@
  {
-    "ProtocolloRichiestaAccreditamento":"BUL0000001",
+    "ProtocolloRichiestaAccreditamento": 
+    { "CodiceProtocollo" : "BUL0000001" },
     "elenco": [
     {
       "id": 1,
