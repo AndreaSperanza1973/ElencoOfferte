@@ -1,7 +1,7 @@
  {
   "elenco": [
     {
-      "id": "01",
+      "id": 1,
       "CodiceStatoOfferta": "A",
       "DataInizio": "01/09/2020",
       "DataFine": ""
