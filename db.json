@@ -1,16 +1,11 @@
-{
-  "Elenco" : [
+ {
+  "posts": [
     {
-      "id": "01",
-      "CodiceStatoOfferta": "A",
-      "DataInizio": "01/09/2020",
-      "DataFine": ""
-    },
-    {
-      "id": "02",
-      "CodiceStatoOfferta": "S",
-      "DataInizio": "01/09/2020",
-      "DataFine": "10/09/2020"
-    }    
-  ]
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
