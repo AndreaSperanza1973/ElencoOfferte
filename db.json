@@ -1,17 +1,3 @@
 {
-  Protocollo: "ABC0001",
-  Elenco : [
-    {
-      CodiceFE: "01",
-      CodiceStatoOfferta: "A",
-      DataInizio: "01/09/2020",
-      DataFine: ""
-    },
-    {
-      CodiceFE: "02",
-      CodiceStatoOfferta: "S",
-      DataInizio: "01/09/2020",
-      DataFine: "10/09/2020"
-    }    
-  ]
+  Protocollo: "ABC0001"
 }
