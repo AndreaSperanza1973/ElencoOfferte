@@ -1,6 +1,6 @@
 {
   Protocollo: "ABC0001",
-  [
+  Elenco : [
     {
       CodiceFE: "01",
       CodiceStatoOfferta: "A",
