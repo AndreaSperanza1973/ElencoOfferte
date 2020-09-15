@@ -5,9 +5,12 @@
       "CodiceStatoOfferta": "A",
       "DataInizio": "01/09/2020",
       "DataFine": ""
+    },
+    {
+      "id": 2,
+      "CodiceStatoOfferta": "S",
+      "DataInizio": "01/09/2020",
+      "DataFine": "10/09/2020"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
