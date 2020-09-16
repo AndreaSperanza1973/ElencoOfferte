@@ -16,15 +16,15 @@
       "id": 2,
       "IdentificativoFE":2,
       "CodiceStatoOfferta": "S",
-      "CodiceOfferta":"",
+      "CodiceOfferta":"ATR0002",
       "DataInizio": "01/09/2020",
       "DataFine": "30/09/2020"
     },
     {
       "id": 3,
       "IdentificativoFE":3,
-      "CodiceStatoOfferta": "A",
-      "CodiceOfferta":"ATR0001",
+      "CodiceStatoOfferta": "R",
+      "CodiceOfferta":"ATR0003",
       "DataInizio": "01/09/2020",
       "DataFine": ""
     }
