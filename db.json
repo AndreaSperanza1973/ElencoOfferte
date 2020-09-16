@@ -1,4 +1,4 @@
- {
+/ {
     "ProtocolloRichiestaAccreditamento": 
     { 
         "CodiceProtocollo" : "BUL0000001" 
@@ -10,23 +10,29 @@
       "CodiceStatoOfferta": "A",
       "CodiceOfferta":"ATR0001",
       "DataInizio": "01/09/2020",
-      "DataFine": ""
+      "DataFine": "",
+     "DataApprovazione" : "2020-09-01",
+     "DataRifiuto" : ""
     },
     {
       "id": 2,
       "IdentificativoFE":2,
       "CodiceStatoOfferta": "S",
       "CodiceOfferta":"ATR0002",
-      "DataInizio": "01/09/2020",
-      "DataFine": "30/09/2020"
+      "DataInizio": "2020-09-01",
+      "DataFine": "2020-09-30",
+     "DataApprovazione" : "2020-09-01",
+     "DataRifiuto" : ""
     },
     {
       "id": 3,
       "IdentificativoFE":3,
       "CodiceStatoOfferta": "R",
       "CodiceOfferta":"ATR0003",
-      "DataInizio": "01/09/2020",
-      "DataFine": ""
-    }
+      "DataInizio": "2020-09-01",
+      "DataFine": "",
+     "DataApprovazione" : "2020-09-01",
+     "DataRifiuto" : "2020-09-20"
+    }/
   ]
 }
