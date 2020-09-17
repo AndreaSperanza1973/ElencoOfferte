@@ -33,6 +33,16 @@
       "DataFine": "2020-09-20",
      "DataApprovazione" : "2020-09-01",
      "DataRifiuto" : "2020-09-20"
+    },
+    {
+      "id": 5,
+      "IdentificativoFE":5,
+      "CodiceStatoOfferta": "R",
+      "CodiceOfferta":"ATR0003",
+      "DataInizio": "2020-09-01",
+      "DataFine": "2020-09-20",
+     "DataApprovazione" : "2020-09-01",
+     "DataRifiuto" : "2020-09-20"
     }
   ]
 }
